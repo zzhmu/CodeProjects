@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\CPP">
+      <UniqueIdentifier>{7478d832-d1cf-4724-b1c8-f94a59b52d12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\BM">
+      <UniqueIdentifier>{c4275487-0850-40f0-9b8f-94a4818f448a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CPP\CPP42.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP43.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP44.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP45.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP46.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP47.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP48.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP49.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP50.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP51.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP52.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP53.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP54.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP55.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP61.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP62.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP63.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP64.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP68.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP69.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP70.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP71.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP\CPP72.cpp">
+      <Filter>源文件\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="BM1.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM2.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
