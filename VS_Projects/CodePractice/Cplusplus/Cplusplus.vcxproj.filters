@@ -90,10 +90,13 @@
     <ClCompile Include="CPP\CPP72.cpp">
       <Filter>源文件\CPP</Filter>
     </ClCompile>
-    <ClCompile Include="BM1.cpp">
+    <ClCompile Include="BM\BM1.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM2.cpp">
+    <ClCompile Include="BM\BM2.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM3.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
   </ItemGroup>

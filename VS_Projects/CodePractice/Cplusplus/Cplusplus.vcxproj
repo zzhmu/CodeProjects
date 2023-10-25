@@ -19,8 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BM1.cpp" />
-    <ClCompile Include="BM2.cpp" />
+    <ClCompile Include="BM3.cpp" />
+    <ClCompile Include="BM\BM1.cpp" />
+    <ClCompile Include="BM\BM2.cpp" />
     <ClCompile Include="CPP\CPP42.cpp" />
     <ClCompile Include="CPP\CPP43.cpp" />
     <ClCompile Include="CPP\CPP44.cpp" />

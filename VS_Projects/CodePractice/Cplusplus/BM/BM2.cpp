@@ -1,4 +1,4 @@
-//#include <iostream>
+//#include<iostream>
 //using namespace std;
 //
 //struct listnode {
@@ -6,30 +6,30 @@
 //    struct listnode* next;
 //    listnode(int x) : val(x), next(nullptr) {}
 //};
-//
 //class solution {
 //public:
-//    listnode* reverselist(listnode* head) {
-//        listnode* prev = nullptr;
-//        listnode* curr = head;
-//        listnode* next = nullptr;
-//
-//        while (curr != nullptr) {
-//            next = curr->next;
-//            curr->next = prev;
-//            prev = curr;
-//            curr = next;
+//    listnode* reversebetween(listnode* head, int m, int n) {
+//        if (!head || m >= n) return head;
+//        listnode dummy(0);
+//        dummy.next = head;
+//        listnode* pre = &dummy;
+//        for (int i = 1; i < m; ++i) pre = pre->next;
+//        listnode* cur = pre->next;
+//        for (int i = m; i < n; ++i) {
+//            listnode* t = cur->next;
+//            cur->next = t->next;
+//            t->next = pre->next;
+//            pre->next = t;
 //        }
-//
-//        return prev;
+//        return dummy.next;
 //    }
 //};
+//
 //int main() {
+//    int m, n, size;
+//    cout << "input m and n and size:";
+//    cin >> m >> n >> size;
 //    
-//    int size;
-//    cout << "input size:";
-//    cin >> size;
-//    int value;
 //    listnode* head = nullptr;
 //    listnode* tail = nullptr;
 //    for (int i = 1; i <= size; i++) {
@@ -44,24 +44,26 @@
 //
 //        }
 //    }
-//    
 //    cout << "input value:";
 //    int* a = new int[size];
 //    for (int i = 1; i <= size; i++)
 //    {
-//        cin >> a[i-1];
+//        cin >> a[i - 1];
 //    }
-//    listnode* current=head;
+//    int value;
+//    listnode* current = head;
 //    for (int i = 1; i <= size; i++) {
 //        value = a[i - 1];
 //        current->val = value;
 //        current = current->next;
 //    }
 //    delete[] a;
+//
 //    solution s;
-//    listnode* reversedhead = s.reverselist(head);
+//    listnode* reversedhead = s.reversebetween(head,m,n);
 //
 //    // 输出反转后的链表
+//    cout << "reverse output:";
 //    listnode* p = reversedhead;
 //    while (p != nullptr) {
 //        cout << p->val << " ";
@@ -76,6 +78,6 @@
 //        delete q;
 //    }
 //
+//
 //    return 0;
 //}
-//
