@@ -45,6 +45,8 @@
     <ClCompile Include="CPP\CPP70.cpp" />
     <ClCompile Include="CPP\CPP71.cpp" />
     <ClCompile Include="CPP\CPP72.cpp" />
+    <ClCompile Include="BM6.cpp" />
+    <ClCompile Include="BM7.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
