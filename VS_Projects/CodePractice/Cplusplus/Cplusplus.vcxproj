@@ -20,6 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BM3.cpp" />
+    <ClCompile Include="BM4.cpp" />
+    <ClCompile Include="BM5.cpp" />
     <ClCompile Include="BM\BM1.cpp" />
     <ClCompile Include="BM\BM2.cpp" />
     <ClCompile Include="CPP\CPP42.cpp" />
