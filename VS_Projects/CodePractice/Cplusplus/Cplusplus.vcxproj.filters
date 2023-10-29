@@ -96,31 +96,37 @@
     <ClCompile Include="BM\BM2.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM3.cpp">
+    <ClCompile Include="BM\BM3.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM6.cpp">
+    <ClCompile Include="BM\BM4.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM7.cpp">
+    <ClCompile Include="BM\BM5.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM4.cpp">
+    <ClCompile Include="BM\BM6.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM5.cpp">
+    <ClCompile Include="BM\BM7.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM8.cpp">
+    <ClCompile Include="BM\BM8.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM17.cpp">
+    <ClCompile Include="BM\BM17.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM19.cpp">
+    <ClCompile Include="BM\BM19.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
-    <ClCompile Include="BM20.cpp">
+    <ClCompile Include="BM\BM20.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM\BM23.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM\BM24.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
   </ItemGroup>

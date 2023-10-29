@@ -19,15 +19,19 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BM17.cpp" />
-    <ClCompile Include="BM19.cpp" />
-    <ClCompile Include="BM20.cpp" />
-    <ClCompile Include="BM3.cpp" />
-    <ClCompile Include="BM4.cpp" />
-    <ClCompile Include="BM5.cpp" />
-    <ClCompile Include="BM8.cpp" />
     <ClCompile Include="BM\BM1.cpp" />
+    <ClCompile Include="BM\BM17.cpp" />
+    <ClCompile Include="BM\BM19.cpp" />
     <ClCompile Include="BM\BM2.cpp" />
+    <ClCompile Include="BM\BM20.cpp" />
+    <ClCompile Include="BM\BM3.cpp" />
+    <ClCompile Include="BM\BM4.cpp" />
+    <ClCompile Include="BM\BM5.cpp" />
+    <ClCompile Include="BM\BM6.cpp" />
+    <ClCompile Include="BM\BM7.cpp" />
+    <ClCompile Include="BM\BM8.cpp" />
+    <ClCompile Include="BM\BM23.cpp" />
+    <ClCompile Include="BM\BM24.cpp" />
     <ClCompile Include="CPP\CPP42.cpp" />
     <ClCompile Include="CPP\CPP43.cpp" />
     <ClCompile Include="CPP\CPP44.cpp" />
@@ -51,8 +55,6 @@
     <ClCompile Include="CPP\CPP70.cpp" />
     <ClCompile Include="CPP\CPP71.cpp" />
     <ClCompile Include="CPP\CPP72.cpp" />
-    <ClCompile Include="BM6.cpp" />
-    <ClCompile Include="BM7.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
