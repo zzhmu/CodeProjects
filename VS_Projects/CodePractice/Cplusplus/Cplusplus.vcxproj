@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BM26.cpp" />
+    <ClCompile Include="BM42.cpp" />
     <ClCompile Include="BM\BM1.cpp" />
     <ClCompile Include="BM\BM17.cpp" />
     <ClCompile Include="BM\BM19.cpp" />
