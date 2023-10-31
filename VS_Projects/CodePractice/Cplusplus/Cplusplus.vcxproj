@@ -21,6 +21,11 @@
   <ItemGroup>
     <ClCompile Include="BM26.cpp" />
     <ClCompile Include="BM42.cpp" />
+    <ClCompile Include="BM43.cpp" />
+    <ClCompile Include="BM45.cpp" />
+    <ClCompile Include="BM48.cpp" />
+    <ClCompile Include="BM50.cpp" />
+    <ClCompile Include="BM51.cpp" />
     <ClCompile Include="BM\BM1.cpp" />
     <ClCompile Include="BM\BM17.cpp" />
     <ClCompile Include="BM\BM19.cpp" />
