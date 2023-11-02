@@ -153,5 +153,17 @@
     <ClCompile Include="BM55.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
+    <ClCompile Include="BM56.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM62.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM83.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM87.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

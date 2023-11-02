@@ -1,7 +1,7 @@
-#include <vector>
-#include <list>
-using namespace std;
-
+//#include <vector>
+//#include <list>
+//using namespace std;
+//
 //class Solution {
 //public:
 //    vector<vector<int>> permute(vector<int>& num) {
@@ -26,31 +26,31 @@ using namespace std;
 //        }
 //    }
 //};
-class Solution {
-public:
-    vector<vector<int>> permute(vector<int>& num) {
-
-        vector<vector<int>> res;
-
-        vector<int> list;
-
-        res.push_back(list); // 先加入一个空的列表
-
-
-        for (int i = 0; i < num.size(); i++) {
-            vector<vector<int>> tmp;
-
-            for (vector<int> r : res) {
-                for (int j = 0; j < r.size() + 1; j++) {
-                    r.insert(r.begin() + j, num[i]);
-                    vector<int> temp(r);
-                    tmp.push_back(temp);
-                    r.erase(r.begin() + j);
-                }
-            }
-            res = tmp;
-        }
-
-        return res;
-    }
-};
+//class Solution {
+//public:
+//    vector<vector<int>> permute(vector<int>& num) {
+//
+//        vector<vector<int>> res;
+//
+//        vector<int> list;
+//
+//        res.push_back(list); // 先加入一个空的列表
+//
+//
+//        for (int i = 0; i < num.size(); i++) {
+//            vector<vector<int>> tmp;
+//
+//            for (vector<int> r : res) {
+//                for (int j = 0; j < r.size() + 1; j++) {
+//                    r.insert(r.begin() + j, num[i]);
+//                    vector<int> temp(r);
+//                    tmp.push_back(temp);
+//                    r.erase(r.begin() + j);
+//                }
+//            }
+//            res = tmp;
+//        }
+//
+//        return res;
+//    }
+//};
