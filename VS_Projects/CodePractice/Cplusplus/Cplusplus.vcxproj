@@ -19,31 +19,34 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BM26.cpp" />
-    <ClCompile Include="BM42.cpp" />
-    <ClCompile Include="BM43.cpp" />
-    <ClCompile Include="BM45.cpp" />
-    <ClCompile Include="BM48.cpp" />
-    <ClCompile Include="BM50.cpp" />
-    <ClCompile Include="BM51.cpp" />
-    <ClCompile Include="BM55.cpp" />
-    <ClCompile Include="BM56.cpp" />
-    <ClCompile Include="BM62.cpp" />
-    <ClCompile Include="BM83.cpp" />
-    <ClCompile Include="BM87.cpp" />
     <ClCompile Include="BM\BM1.cpp" />
+    <ClCompile Include="BM\BM10.cpp" />
+    <ClCompile Include="BM\BM11.cpp" />
     <ClCompile Include="BM\BM17.cpp" />
     <ClCompile Include="BM\BM19.cpp" />
     <ClCompile Include="BM\BM2.cpp" />
     <ClCompile Include="BM\BM20.cpp" />
+    <ClCompile Include="BM\BM26.cpp" />
     <ClCompile Include="BM\BM3.cpp" />
     <ClCompile Include="BM\BM4.cpp" />
+    <ClCompile Include="BM\BM42.cpp" />
+    <ClCompile Include="BM\BM43.cpp" />
+    <ClCompile Include="BM\BM45.cpp" />
+    <ClCompile Include="BM\BM48.cpp" />
     <ClCompile Include="BM\BM5.cpp" />
+    <ClCompile Include="BM\BM50.cpp" />
+    <ClCompile Include="BM\BM51.cpp" />
+    <ClCompile Include="BM\BM55.cpp" />
+    <ClCompile Include="BM\BM56.cpp" />
     <ClCompile Include="BM\BM6.cpp" />
+    <ClCompile Include="BM\BM62.cpp" />
     <ClCompile Include="BM\BM7.cpp" />
     <ClCompile Include="BM\BM8.cpp" />
     <ClCompile Include="BM\BM23.cpp" />
     <ClCompile Include="BM\BM24.cpp" />
+    <ClCompile Include="BM\BM83.cpp" />
+    <ClCompile Include="BM\BM87.cpp" />
+    <ClCompile Include="BM\BM9.cpp" />
     <ClCompile Include="CPP\CPP42.cpp" />
     <ClCompile Include="CPP\CPP43.cpp" />
     <ClCompile Include="CPP\CPP44.cpp" />
