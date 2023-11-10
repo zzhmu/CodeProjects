@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BM31.cpp" />
+    <ClCompile Include="BM33.cpp" />
     <ClCompile Include="BM\BM1.cpp" />
     <ClCompile Include="BM\BM10.cpp" />
     <ClCompile Include="BM\BM11.cpp" />
@@ -27,7 +29,11 @@
     <ClCompile Include="BM\BM2.cpp" />
     <ClCompile Include="BM\BM20.cpp" />
     <ClCompile Include="BM\BM26.cpp" />
+    <ClCompile Include="BM\BM27.cpp" />
+    <ClCompile Include="BM\BM28.cpp" />
+    <ClCompile Include="BM\BM29.cpp" />
     <ClCompile Include="BM\BM3.cpp" />
+    <ClCompile Include="BM\BM30.cpp" />
     <ClCompile Include="BM\BM4.cpp" />
     <ClCompile Include="BM\BM42.cpp" />
     <ClCompile Include="BM\BM43.cpp" />
@@ -47,6 +53,7 @@
     <ClCompile Include="BM\BM83.cpp" />
     <ClCompile Include="BM\BM87.cpp" />
     <ClCompile Include="BM\BM9.cpp" />
+    <ClCompile Include="BM\BM25.cpp" />
     <ClCompile Include="CPP\CPP42.cpp" />
     <ClCompile Include="CPP\CPP43.cpp" />
     <ClCompile Include="CPP\CPP44.cpp" />

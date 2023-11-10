@@ -174,5 +174,26 @@
     <ClCompile Include="BM\BM11.cpp">
       <Filter>源文件\BM</Filter>
     </ClCompile>
+    <ClCompile Include="BM\BM25.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM\BM27.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM\BM28.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM\BM29.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM\BM30.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM31.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
+    <ClCompile Include="BM33.cpp">
+      <Filter>源文件\BM</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
